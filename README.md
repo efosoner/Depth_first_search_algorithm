@@ -14,7 +14,7 @@ A = [0, 1, 1, 1, 0, 0, 0, 0;
  # Output example
   1     2     5     6     3     7     8     4
 or 
-ans =
+     ans =
 
      1
      2
